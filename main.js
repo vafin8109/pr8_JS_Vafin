@@ -1,3 +1,4 @@
+'use strict'
 // задание 1
 const clickBtn = document.getElementById("clickBtn");
 const hoverBtn = document.getElementById("hoverBtn");
